@@ -1,4 +1,4 @@
-# Job-Fit Analyzer — prompts and eval set
+# Job-Fit Analyzer - prompts and eval set
 
 An AI agent that scores AI Product Manager job descriptions against my resume.
 Built in n8n on free model tiers, measured against a hand-built eval set, and
